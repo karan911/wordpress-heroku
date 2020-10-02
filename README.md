@@ -90,7 +90,7 @@ Deploy to Heroku
            Procfile declares types -> web
 
     -----> Compressing... done, 78.5MB
-    -----> Launcing... done, v5
+    -----> Launching... done, v5
            http://strange-turtle-1234.herokuapp.com deployed to Heroku
 
     To git@heroku:strange-turtle-1234.git
